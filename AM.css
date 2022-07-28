@@ -1,0 +1,48 @@
+.main{
+    padding: 50px;
+    max-width: 400px;
+    max-height: 600px;
+    margin:auto;
+    background-color: rgb(207, 240, 240);
+    justify-content: space-between;
+}
+#a1{ 
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+#b1{
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+
+#addition{
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+#mines{
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+#multip{
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+#division{
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+#modulo{
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+.button{
+    background-color: rgb(15, 14, 14);
+    color: white;
+}
